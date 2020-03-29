@@ -1,0 +1,6 @@
+C:\Users\londeroner\source\repos\TSiSA Lab1\bin\Debug\TSiSA Lab1.exe.config
+C:\Users\londeroner\source\repos\TSiSA Lab1\bin\Debug\TSiSA Lab1.exe
+C:\Users\londeroner\source\repos\TSiSA Lab1\bin\Debug\TSiSA Lab1.pdb
+C:\Users\londeroner\source\repos\TSiSA Lab1\obj\Debug\TSiSA Lab1.csprojAssemblyReference.cache
+C:\Users\londeroner\source\repos\TSiSA Lab1\obj\Debug\TSiSA Lab1.exe
+C:\Users\londeroner\source\repos\TSiSA Lab1\obj\Debug\TSiSA Lab1.pdb
